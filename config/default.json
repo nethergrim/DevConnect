@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://nethergrim:JcKDF33wfr4Up3@mongoclustermern.kcahl.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://nethergrim:JcKDF33wfr4Up3@mongoclustermern.kcahl.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "JcKDF33wfr4Up3189"
 }
